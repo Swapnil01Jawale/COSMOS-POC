@@ -1,0 +1,66 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	font: bold 30px Tahoma;
+}
+h2{
+	font: bold 14px Tahoma;
+}
+header, section, footer, aside, nav, article, hgroup{
+	display:block;
+}
+body{
+	width:100%;
+	display:-webkit-box;
+	-webkit-box-pack: center;
+}
+#big_wrapper{
+	max-width: 1000px;
+	margin:20px 0px;
+	display:-webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-box-flex: 1;
+}
+#middle_div{
+	max-width:1000px;
+}
+top_header{
+	background: yellow;
+	border:3px solid black;
+	padding:20px;
+}
+#logo{
+	float:left;
+}
+#bottom_div{
+	margin:20px auto;
+	padding:20px;
+}
+#cosmos_logo{
+	float:center;
+}
+#header{
+	text-align:center;
+	background-color:#E6E6FA;
+	height:25px;
+	padding:13px;
+	font:bold 14px Tahoma;
+}
+#news_header{
+	text-align:center;
+	background-color:#DCDCDC;
+	height:25px;
+	padding:13px;
+	font:bold 14px Tahoma;
+}
+#content{
+	padding:20px;
+	font:bold 14px Tahoma;
+	margin:5px;
+}
+
+
+
+
