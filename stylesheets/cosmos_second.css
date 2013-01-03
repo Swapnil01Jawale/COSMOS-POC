@@ -43,22 +43,27 @@ top_header{
 }
 #header{
 	text-align:center;
-	background-color:#E6E6FA;
-	height:25px;
-	padding:13px;
+	background-color:#87CEEB;
+	height:15px;
+	padding:10px;
 	font:bold 14px Tahoma;
 }
 #news_header{
 	text-align:center;
 	background-color:#DCDCDC;
-	height:25px;
-	padding:13px;
+	height:15px;
+	padding:10px;
 	font:bold 14px Tahoma;
 }
 #content{
 	padding:20px;
 	font:bold 14px Tahoma;
 	margin:5px;
+}
+#footer p {
+	text-align:center;
+	display:block;
+	padding:3px;
 }
 
 
